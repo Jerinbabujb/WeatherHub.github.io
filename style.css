@@ -1,0 +1,20 @@
+.mar{
+    position: relative;
+    left: 37%;
+}
+body{
+    position: relative;
+    top: 18%;
+
+}
+.sizeing{
+    height: 10%;
+}
+.dis{
+    left: 13%;
+    position: relative;
+}
+.windspeed{
+    left: 15%;
+    position: relative;
+}

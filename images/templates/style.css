@@ -1,0 +1,19 @@
+
+
+table{
+    border: 2px solid ;
+    border-color: aqua;
+    border-radius: 5px;
+    width: 70%;
+    height: 60%;
+    border-spacing: 3px; 
+}
+td,th{
+    border: 2px solid ;
+    border-color: aqua;
+    border-radius: 5px;
+    padding: 5px;
+}
+body{
+    background-color: beige;
+}
